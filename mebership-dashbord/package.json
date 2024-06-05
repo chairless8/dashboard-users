@@ -1,0 +1,30 @@
+{
+  "name": "mebership-dashbord",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "@vue/compiler-sfc": "^3.4.27",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0",
+    "vite-plugin-vuetify": "^2.0.3",
+    "vue-tsc": "^2.0.6"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "axios": "^1.7.2",
+    "path": "^0.12.7",
+    "roboto-fontface": "*",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.2",
+    "vuetify": "^3.0.0",
+    "webfontloader": "^1.0.0"
+  },
+  "type": "module"
+}
